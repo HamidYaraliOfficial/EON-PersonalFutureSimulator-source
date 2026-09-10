@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  EON stores everything Local-First. Backups are opt-in and only ever include
+  the encrypted export the user explicitly created — never the raw database.
+-->
+<full-backup-content>
+    <exclude domain="database" path="." />
+    <exclude domain="sharedpref" path="." />
+    <include domain="file" path="eon_exports/" />
+</full-backup-content>

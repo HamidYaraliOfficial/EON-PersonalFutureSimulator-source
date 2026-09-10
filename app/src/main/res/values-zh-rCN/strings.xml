@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EON — 个人未来模拟器</string>
+    <string name="app_tagline">在真正经历之前，先探索你的各种可能未来。</string>
+
+    <string name="nav_home">主页</string>
+    <string name="nav_goals">目标</string>
+    <string name="nav_planner">计划</string>
+    <string name="nav_simulator">模拟器</string>
+    <string name="nav_timeline">时间线</string>
+    <string name="nav_insights">洞察</string>
+    <string name="nav_settings">设置</string>
+
+    <string name="widget_label">EON — 目标进度</string>
+    <string name="widget_description">显示你最重要目标的进度、当前连续天数,以及一个快速的"如果…会怎样"操作入口。</string>
+    <string name="widget_what_if_action">如果…会怎样?</string>
+
+    <string name="label_estimate">估算</string>
+    <string name="label_scenario">情景</string>
+    <string name="label_projection">预测</string>
+    <string name="label_confidence_range">置信区间</string>
+    <string name="label_assumption">假设</string>
+
+    <string name="feasibility_feasible">可行</string>
+    <string name="feasibility_challenging">有挑战</string>
+    <string name="feasibility_unrealistic">不现实</string>
+
+    <string name="reality_real">真实</string>
+    <string name="reality_simulated">模拟</string>
+
+    <string name="theme_system">跟随系统</string>
+    <string name="theme_light">浅色</string>
+    <string name="theme_dark">深色</string>
+    <string name="theme_amoled">纯黑</string>
+    <string name="theme_red">红色</string>
+    <string name="theme_blue">蓝色</string>
+</resources>

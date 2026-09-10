@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EON — شبیه‌ساز آینده شخصی</string>
+    <string name="app_tagline">پیش از زندگی‌کردنِ آینده‌های ممکن، آن‌ها را کاوش کن.</string>
+
+    <string name="nav_home">خانه</string>
+    <string name="nav_goals">هدف‌ها</string>
+    <string name="nav_planner">برنامه‌ریز</string>
+    <string name="nav_simulator">شبیه‌ساز</string>
+    <string name="nav_timeline">خط‌زمان</string>
+    <string name="nav_insights">بینش‌ها</string>
+    <string name="nav_settings">تنظیمات</string>
+
+    <string name="widget_label">EON — پیشرفت هدف</string>
+    <string name="widget_description">پیشرفت مهم‌ترین هدف، استریک فعلی و یک اقدام سریع «چه می‌شود اگر» را نشان می‌دهد.</string>
+    <string name="widget_what_if_action">چه می‌شود اگر…؟</string>
+
+    <string name="label_estimate">تخمین</string>
+    <string name="label_scenario">سناریو</string>
+    <string name="label_projection">پیش‌بینی</string>
+    <string name="label_confidence_range">بازه اطمینان</string>
+    <string name="label_assumption">فرض</string>
+
+    <string name="feasibility_feasible">شدنی</string>
+    <string name="feasibility_challenging">چالش‌برانگیز</string>
+    <string name="feasibility_unrealistic">غیرواقع‌بینانه</string>
+
+    <string name="reality_real">واقعی</string>
+    <string name="reality_simulated">شبیه‌سازی‌شده</string>
+
+    <string name="theme_system">سیستم</string>
+    <string name="theme_light">روشن</string>
+    <string name="theme_dark">تیره</string>
+    <string name="theme_amoled">امولد</string>
+    <string name="theme_red">قرمز</string>
+    <string name="theme_blue">آبی</string>
+</resources>

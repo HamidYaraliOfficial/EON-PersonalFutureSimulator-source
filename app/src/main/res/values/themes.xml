@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. Jetpack Compose (core/theme/Theme.kt) owns all real
+         theming (Light / Dark / AMOLED / Red / Blue); this XML theme only exists so the
+         OS has something to show for the tiny sliver of time before Compose attaches
+         (status bar, splash background). -->
+    <style name="Theme.Eon" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">#0B1F3A</item>
+        <item name="android:navigationBarColor">#0B1F3A</item>
+        <item name="android:windowLightStatusBar" tools:targetApi="23">false</item>
+    </style>
+
+    <style name="Theme.Eon.Splash" parent="Theme.Eon">
+        <item name="android:windowBackground">@drawable/widget_background</item>
+    </style>
+</resources>

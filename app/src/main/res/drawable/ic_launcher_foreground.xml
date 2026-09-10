@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Abstract "branching futures" glyph -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M54,30 L54,54"
+        android:strokeColor="#7FD8FF"
+        android:strokeLineCap="round"
+        android:strokeWidth="6" />
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M54,54 L36,78"
+        android:strokeColor="#4FC3F7"
+        android:strokeLineCap="round"
+        android:strokeWidth="6" />
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M54,54 L54,80"
+        android:strokeColor="#81D4FA"
+        android:strokeLineCap="round"
+        android:strokeWidth="6" />
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M54,54 L72,78"
+        android:strokeColor="#B3E5FC"
+        android:strokeLineCap="round"
+        android:strokeWidth="6" />
+    <path android:fillColor="#7FD8FF" android:pathData="M54,22 m-8,0a8,8 0,1 1,16 0a8,8 0,1 1,-16 0" />
+    <path android:fillColor="#4FC3F7" android:pathData="M36,86 m-6,0a6,6 0,1 1,12 0a6,6 0,1 1,-12 0" />
+    <path android:fillColor="#81D4FA" android:pathData="M54,88 m-6,0a6,6 0,1 1,12 0a6,6 0,1 1,-12 0" />
+    <path android:fillColor="#B3E5FC" android:pathData="M72,86 m-6,0a6,6 0,1 1,12 0a6,6 0,1 1,-12 0" />
+</vector>
